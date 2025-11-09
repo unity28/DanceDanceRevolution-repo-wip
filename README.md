@@ -12,3 +12,7 @@ To work around this issue, I decided to try exporting a 3D model with **the same
 ---
 
 will likely leave this project in standby for now.
+
+---
+
+after consulting a member of the discord Blender community, ive found out a way to transform the .bin game files of the models into actual shapes. On a side note, it looks like the tools used are the same that get used by the MP5 modding community, so that was interesting. Still weird to think about the choice by Konami to adopt this type for each single gamefile, including 3d models.
